@@ -16,8 +16,3 @@
 </p>
 
 ---
-
-## About
-
-<p>RedDOGE is a hyper-deflationary reflection token.</p>
-
